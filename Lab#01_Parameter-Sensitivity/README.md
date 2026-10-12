@@ -2,7 +2,7 @@
 
 **The CrazyDBA · SQL Server — Beyond the Basics**
 
-Watch the video: [YouTube](VIDEO_URL) · [Instagram](VIDEO_URL)
+Watch the video: [YouTube](https://www.youtube.com/@learnwithcrazydba) · [Instagram](https://www.instagram.com/learnwiththecrazydba/)
 
 ## What you'll learn
 
