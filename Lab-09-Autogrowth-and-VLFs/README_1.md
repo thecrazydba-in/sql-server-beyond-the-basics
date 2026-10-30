@@ -2,7 +2,7 @@
 
 **The CrazyDBA — SQL Server: Beyond the Basics**
 
-Watch the video: [YouTube](VIDEO_URL) · [Instagram](VIDEO_URL)
+
 
 ## What you'll learn
 
